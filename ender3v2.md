@@ -23,3 +23,7 @@ description: Information about the Ender 3 V2
 | Layer Thickness     | 0.1-0.4mm                              |
 | Print Precisions    | ±0.1mm                                 |
 | Hotbed Temperature  | ≤100°C                                 |
+
+### Slicer Settings
+
+In cura, the default profile for the Ender 3 Pro works great for the Ender 3 V2. Their slicer settings are identical.
