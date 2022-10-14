@@ -8,7 +8,4 @@ description: 3D Printing stuff
 Example Figjam Diagram
 {% endembed %}
 
-{% embed url="https://trello.com/b/FjkT5EOW/3d-printer-board" %}
-Trello Board
-{% endembed %}
-
+{% embed url="https://trello.com/b/vJb2gttM/3d-printer" %}
