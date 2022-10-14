@@ -26,4 +26,4 @@ description: Information about the Ender 3 V2
 
 ### Slicer Settings
 
-In cura, the default profile for the Ender 3 Pro works great for the Ender 3 V2. Their slicer settings are identical.
+In cura, the default profile for the `Ender 3 Pro` works great for the Ender 3 V2. Their slicer settings are identical.
